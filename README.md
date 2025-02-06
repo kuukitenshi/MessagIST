@@ -8,7 +8,6 @@
 | 112269 | Laura Cunha     | <https://github.com/kuukitenshi>     | <mailto:laura.r.velasco.cunha@tecnico.ulisboa.pt> |
 | 112270 | Rodrigo Correia | <https://github.com/mkuritsu>        | <mailto:rodrigo.a.c.correia@tecnico.ulisboa.pt>   |
 
-![Xiting Wang](img/pfp/wang.jpg) ![Laura Cunha](img/pfp/laura.jpg)  ![Charlie](img/pfp/rodrigo.jpg)
 
 ## Contents
 
