@@ -1,4 +1,4 @@
-# A07 MessagIST Project Read Me
+# A07 MessagIST
 
 ## Team
 
